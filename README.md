@@ -16,4 +16,4 @@ Temario:
 - Proyecto final
 
 Herramientas Utilizadas:
-Utilizaremos la distribución Anaconda disponible para Windows/macOS/Linux.
+- Utilizaremos la distribución Anaconda disponible para Windows/macOS/Linux.
