@@ -1,0 +1,6 @@
+# Ignore Datasets Directory
+datasets/*
+
+# Ignore Notebooks Checkpoints
+notebooks/.ipynb_checkpoints
+
