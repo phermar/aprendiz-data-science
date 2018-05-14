@@ -4,3 +4,6 @@ datasets/*
 # Ignore Notebooks Checkpoints
 notebooks/.ipynb_checkpoints
 
+# Ignore Folder Exercises in Notebooks
+notebooks/exercises
+
